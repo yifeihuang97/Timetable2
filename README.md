@@ -10,7 +10,7 @@
 	Using general idea of managing schedule students in college, 
   	the app will save the user’s class code, professors, 
 	and the day and time of the schedule.
-	By using this app, students can easily figure out when they have class during theweek with professor’s information.
+	By using this app, students can easily figure out when they have class during the week with professor’s information.
 
 
 
