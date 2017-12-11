@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/logo_white_background"
+    >
+  <LinearLayout
+      android:layout_width="fill_parent"
+      android:layout_marginTop="30dp"
+      android:layout_height="wrap_content"
+      android:orientation="vertical"
+      >
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:text="HELP"
+        >
+    </TextView>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_marginTop="10dp"
+        android:text="1.By Clicking the schedule, user can edit, delete or send email."
+        >
+    </TextView>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text=" "
+        ></TextView>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="3.Click Menu to exit the app or looking for help."
+
+        >
+    </TextView>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="   "
+        ></TextView>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="4.When entering the same class, rest information will be generated automatically once entered the name"
+        />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="   "
+        ></TextView>
+  </LinearLayout>
+  <LinearLayout
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+      >
+    <Button
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/help_button"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="140dp"
+        android:text="BACK"
+        >
+    </Button>
+  </LinearLayout>
+</LinearLayout>
