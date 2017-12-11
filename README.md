@@ -1,8 +1,8 @@
 # MySchedule App
 	Project Name:
 	EC327 Fall 2017 Java Android Studio App
-	Group Air
-	App Name: Timetable
+	
+	Team Name: Group Air
 
 
 ## Description/Basic Overview:
