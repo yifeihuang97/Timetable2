@@ -2,7 +2,7 @@
 	Project Name:
 	EC327 Fall 2017 Java Android Studio App
 	
-	Team Name: Group Air
+	Team Name: Group_Air
 
 
 ## Description/Basic Overview:
@@ -16,19 +16,15 @@
 
 ## Install:
 	
-	1. Download all the folders of the lists
-		"idea"
-		"app"
-		"gradle/wrapper"
-	2. Make a New Directory for the all the downloaded folders in "AndroidStudioProject"
+	1. Download all the uploaded files 
+		
+	2. Open Java AndroidStudio on your desktop or labtop.
 	
-	3. Open Java AndroidStudio on your Desktop
+	3. Click "Open an existing Android Studio project" and select the file that you just downloaded.
 	
-	4. Click Open the Project that just downloaded.
+	4. Connect the phone with the cable on the desktop or labtop.
 	
-	5. Connect the phone with the cable on desktop.
-	
-	6. Press the "Green Run Arrow" run button.
+	5. Click the icon for "Run 'app'".
 
 
 
@@ -36,18 +32,18 @@
 ## Usage:
 	
 	1) Go to main page:
-		click on My schedule 
+		click on My schedule
+		**There is menu button at Right bottom corner for instructions.** 
 		
-	2) Choose a day and time you want to add on Clendar.
+	2) Choose a day and time you want to add on calendar.
 	
-	3) Once you click it, on the “Lesson Name” input your course code and input Professor’s name.
-	   On the “Email” input the Professor’s email and save them.
+	3) Once you click it, insert course name, instructor name, time for course, and email of instructor.
+	   Click save button for save.
 	
 	3) Go back to the main schedule grid.
-	   Choose Another date you want to add the same class
-	   If the user input same course, the app will automatically show information of Professor, 
-  	   Lesson Name, and Email. 
-	   There is bottom menu part going for asking Help and GoBack.
+	   Choose another date you want to add schedule for class
+	   If the user input same course name, the app will automatically upload information of name of instructor, 
+  	   course name, and email address of instructor. 
 	
 	3) More Details will be on the "Project Architecture" file.
 	
